@@ -14,3 +14,5 @@ ponies 55555
 indigo
  master
 Issue resolve test
+
+issue resovle test 2 "The fix"
